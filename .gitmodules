@@ -1,6 +1,8 @@
 [submodule "Cook-Blocker-Front-End"]
 	path = Cook-Blocker-Front-End
 	url = https://github.com/Imranr2/Cook-Blocker-Front-End
+	branch = main
 [submodule "Cook-Blocker-API"]
 	path = Cook-Blocker-API
 	url = https://github.com/Imranr2/Cook-Blocker-API
+	branch = main
