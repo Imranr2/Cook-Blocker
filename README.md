@@ -1,6 +1,6 @@
 # Cook-Blocker
 # User Manual
-## Login 
+## Login
 This is the first page that users will be shown when they visit Cook Blocker. New users can head over to the register page by clicking on “Don’t have an account? Click here” 
 <img src="assets/Login Page.png"></img>
 
@@ -57,3 +57,6 @@ After taking a reservation from a customer, servers can input the details by cli
 <img src="assets/All reservations.png"></img>
 
 Servers can view all the upcoming reservations by clicking on the “View Reservations” button on the Homepage. In this page, servers can edit, fulfil, or delete the reservations by clicking on the respective buttons. Reservations are ordered based on ascending date and time.
+
+### Credits
+Special thanks to <a href="https://github.com/Lemonsr">Lemonsr</a> for designing the User Interface (UI)
